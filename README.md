@@ -3,6 +3,18 @@ Fall 2019 launches the .NET College Tour with Scott Hanselman and friends. We're
 
 This repo will keep track of the events we're running, giving you more details about what you can expect and access to resources after the event is over! Come learn, build community, and improve your tech skills. 
 
+In these workshops you will be introduced to .NET and the power it brings you to:
+- Build a web app
+- Make mobile apps
+- Develop video games in Unity
+- Integrate machine learning to make your solutions smarter
+
+Additionally, you will get to hear about the paths of Scott and his Friends and how they landed at Microsoft. You will also learn what it's like to work in various roles at a large company and what you can do now to prepare for life after school. 
+
+You're welcome to follow along during the events, you should come prepared with a Windows or Mac computer with Visual Studio Community 2019 (free) installed with ASP.NET Core. You should also have an Azure account, which if you're a student you can signed up for free using [Azure For Students](https://azure.microsoft.com/en-us/free/students/) without a credit card!
+
+If you're interested in engaging with the .NET crew, check out an event near you!
+
 ## Schedule
 | Date | School | Room | Time | Activity |
 | ---- | ------ | ---- | ---- | -------- |
