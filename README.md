@@ -1,4 +1,4 @@
-# .NET College Tour Scott Hanselman and Friends
+# .NET College Tour with Scott Hanselman and Friends
 Fall 2019 launches the .NET College Tour with Scott Hanselman and friends. We're traveling the U.S., visiting colleges, and hosting hands-on workshops on .NET, Azure, and Life After College. 
 
 This repo will keep track of the events we're running, giving you more details about what you can expect and access to resources after the event is over! Come learn, build community, and improve your tech skills. 
