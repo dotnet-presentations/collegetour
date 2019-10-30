@@ -37,7 +37,7 @@ If you're interested in engaging with the .NET crew, check out an event near you
 <tr>
 <td>Thu, Nov 1st, 2019</td>
 <td>San Diego Mesa College</td>
-<td>BT-216</td>
+<td>[BT-216](https://map.concept3d.com/?id=799#!ct/17135,16183,16178,0)</td>
 <td>8:30 - 9am<br><br>9 - 10am<br><br>10 - 10:45am<br><br>10:45 - 11:15am<br><br>11:15am - 12pm<br><br>12 - 1pm</td>
 <td>Introduction<br><br><a href="/dotnet-presentations/collegetour/blob/master/Build%20a%20Web%20App%20with%20.NET">Meet .NET and Build an App</a><br><br><a href="/dotnet-presentations/collegetour/blob/master/Xamarin%20and%20Unity">Unity and .NET</a><br><br><a href="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR02oMiz5Te5NtYjOFpXUHVFUOUtXNlgyWlpPNDlXSlBPWjVTRUlXUTBTSy4u" rel="nofollow">Survey</a> then Lunch<br><br><a href="/dotnet-presentations/collegetour/blob/master/ML%20with%20.NET">ML with .NET</a><br><br><a href="/dotnet-presentations/collegetour/blob/master/Life%20After%20School">Life After School</a></td>
 </tr>
