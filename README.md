@@ -4,8 +4,7 @@ Fall 2019 launches the .NET College Tour with Scott Hanselman and friends. We're
 This repo will keep track of the events we're running, giving you more details about what you can expect and access to resources after the event is over! Come learn, build community, and improve your tech skills. 
 
 In these workshops you will be introduced to .NET and the power it brings you to:
-- Build a web app
-- Make mobile apps
+- Build apps for any platform
 - Develop video games in Unity
 - Integrate machine learning to make your solutions smarter
 
@@ -16,7 +15,31 @@ You're welcome to follow along during the events, you should come prepared with 
 If you're interested in engaging with the .NET crew, check out an event near you!
 
 ## Schedule
-| Date | School | Room | Time | Activity |
-| ---- | ------ | ---- | ---- | -------- |
-| Wed, Oct 30th, 2019 | UC San Diego | [EBU I - QCC](http://jacobsschool.ucsd.edu/about/map.sfe) | 3:30 - 4pm<br><br>4 - 5pm<br><br>5 - 5:15pm<br><br>5:15 - 6pm<br><br>6 - 6:30pm<br><br> 6:30 - 7:30pm<br><br>7:15  7:30pm<br><br> 7:30 - 8:30pm | Introduction<br><br>[Meet .NET and Build a Web App](Build%20a%20Web%20App%20with%20.NET/)<br><br>Break<br><br>[Xamarin and Unity](Xamarin%20and%20Unity/)<br><br>[Survey](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR02oMiz5Te5NtYjOFpXUHVFUOUtXNlgyWlpPNDlXSlBPWjVTRUlXUTBTSy4u) then Dinner<br><br>[ML with .NET](ML%20with%20.NET/)<br><br>Break<br><br>[Life After School](Life%20After%20School) |
-| Thu, Nov 1st, 2019 | San Diego Mesa College | BT-216 | 8:30 - 9am<br><br>9 - 10am<br><br>10 - 10:45am<br><br>10:45 - 11:15am<br><br>11:15am - 12pm<br><br>12 - 1pm | Introduction<br><br>[Meet .NET and Build a Web App](Build%20a%20Web%20App%20with%20.NET/)<br><br>[Xamarin and Unity](Xamarin%20and%20Unity/)<br><br>[Survey](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR02oMiz5Te5NtYjOFpXUHVFUOUtXNlgyWlpPNDlXSlBPWjVTRUlXUTBTSy4u) then Lunch<br><br>[ML with .NET](ML%20with%20.NET/)<br><br>[Life After School](Life%20After%20School) |
+
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>School</th>
+<th>Room</th>
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wed, Oct 30th, 2019</td>
+<td>UC San Diego</td>
+<td><a href="http://jacobsschool.ucsd.edu/about/map.sfe" rel="nofollow">EBU I - QCC</a></td>
+<td>3:30 - 4pm<br><br>4 - 5pm<br><br>5 - 5:15pm<br><br>5:15 - 6pm<br><br>6 - 6:30pm<br><br> 6:30 - 7:30pm<br><br>7:15  7:30pm<br><br> 7:30 - 8:30pm</td>
+<td>Introduction<br><br><a href="Build%20a%20Web%20App%20with%20.NET">Meet .NET and Build an App</a><br><br>Break<br><br><a href="Xamarin%20and%20Unity">Unity and .NET</a><br><br><a href="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR02oMiz5Te5NtYjOFpXUHVFUOUtXNlgyWlpPNDlXSlBPWjVTRUlXUTBTSy4u" rel="nofollow">Survey</a> then Dinner<br><br><a href="ML%20with%20.NET">ML with .NET</a><br><br>Break<br><br><a href="Life%20After%20School">Life After School</a></td>
+</tr>
+<tr>
+<td>Thu, Nov 1st, 2019</td>
+<td>San Diego Mesa College</td>
+<td>[BT-216](https://map.concept3d.com/?id=799#!ct/17135,16183,16178,0)</td>
+<td>8:30 - 9am<br><br>9 - 10am<br><br>10 - 10:45am<br><br>10:45 - 11:15am<br><br>11:15am - 12pm<br><br>12 - 1pm</td>
+<td>Introduction<br><br><a href="Build%20a%20Web%20App%20with%20.NET">Meet .NET and Build an App</a><br><br><a href="Xamarin%20and%20Unity">Unity and .NET</a><br><br><a href="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR02oMiz5Te5NtYjOFpXUHVFUOUtXNlgyWlpPNDlXSlBPWjVTRUlXUTBTSy4u" rel="nofollow">Survey</a> then Lunch<br><br><a href="ML%20with%20.NET">ML with .NET</a><br><br><a href="Life%20After%20School">Life After School</a></td>
+</tr>
+</tbody>
+</table>
