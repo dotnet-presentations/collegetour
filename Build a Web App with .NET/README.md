@@ -6,4 +6,3 @@ If you'd like to follow along, make sure you bring your Windows or Mac computer 
 
 If you want to try it out afterwards, no problem! This repo will remain publicly available after the event as well. 
 
-[test](/../collegetour/)
