@@ -22,6 +22,7 @@ If you want to try it out afterwards, no problem! This repo will remain publicly
 - [Demos and Code Samples](http://aka.ms/mlnetsamples)
 - [YouTube Video Playlist](https://aka.ms/mlnetyoutube)
 - [Documentation](http://aka.ms/mlnetdocs)
+- [SciSharp Stack](https://github.com/SciSharp)
 
 ## Dataset Links
 
