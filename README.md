@@ -43,3 +43,6 @@ If you're interested in engaging with the .NET crew, check out an event near you
 </tr>
 </tbody>
 </table>
+
+# Useful Links
+- [Software Engineering Productivity Haks](https://medium.com/@annthurium/software-engineering-productivity-hacks-that-worked-for-me-6c4ead3002c4)
