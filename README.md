@@ -46,5 +46,5 @@ If you're interested in engaging with the .NET crew, check out an event near you
 
 # Useful Links
 - [Software Engineering Productivity Haks](https://medium.com/@annthurium/software-engineering-productivity-hacks-that-worked-for-me-6c4ead3002c4)
-- [Zoom and Write on the Sreen](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+- [Zoom and Write on the Screen](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 - [Carnac Keyboard Tool](http://code52.org/carnac/)
